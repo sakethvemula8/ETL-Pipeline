@@ -1,3 +1,4 @@
+ HEAD
 .git
 .env
 .DS_Store
@@ -9,3 +10,9 @@ airflow-webserver.pid
 webserver_config.py
 airflow.cfg
 airflow.db
+
+
+target/
+dbt_packages/
+logs/
+ 31f1b31 (Initial commit)
